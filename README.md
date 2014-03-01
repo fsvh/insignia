@@ -18,13 +18,19 @@ If you like my work, invite me out for some [ice cream](https://www.paypal.com/c
 
 Some icons can't be changed, so you have to do manually, an easy way is using [menulibre](https://launchpad.net/~menulibre-dev/+archive/devel)
 
-You can do manually. with the command sudo gedid from the terminal. Exemple:
+You can do manually. with the command sudo gedit from the terminal. Exemple:
 
-> sudo gedit /usr/share/applications/xchat.desktop
+	$ sudo gedit /usr/share/applications/xchat.desktop
 
 And change the line "Icon=" by the name of your Icon. Exemple:
 
-> replace Icon=path/of/the/icon/icon-name.png by Icon=icon-name.png
+replace:
+
+	Icon=path/of/the/icon/icon_name.png 
+    
+by 
+
+	Icon=your_icon_name.png
 
 
 ###Bugs and questions

@@ -8,8 +8,16 @@ I enjoy this theme so much and hope it will be the case for you too.
 
 ###Installing
 
-Place Insignia on .icons or /usr/share/icons
+Place Insignia on:
 
+> /home/user/.icons or /usr/share/icons
+
+ 	$ sudo mv /path_to/Insignia /usr/share/icons
+
+or
+
+	$ sudo mv /path_to/Insignia /home/user/.icons
+    
 ###Important
 
 If you like my work, invite me out for some [ice cream](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC). The work is large because there are many programs out there, help me to stay motivated. Consider a small donation please. [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC) (you don't need a paypal account to use their services)

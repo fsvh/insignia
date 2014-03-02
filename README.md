@@ -10,7 +10,7 @@ I enjoy this theme so much and hope it will be the case for you too.
 
 Place Insignia on:
 
-> /home/user/.icons or /usr/share/icons
+> `/home/user/.icons` or `/usr/share/icons`
 
  	$ sudo mv /path_to/Insignia /usr/share/icons
 

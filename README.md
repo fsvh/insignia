@@ -1,6 +1,6 @@
 ##Insignia Icon Theme
 
-![Texte alternatif](https://raw2.github.com/fsvh/insignia/1a0cafd7de305eda2ec8b8a1bb18c495b5a4c2eb/Preview.png "Pacifica Icon Theme")
+![Texte alternatif](https://raw.github.com/fsvh/insignia/6f899a16899afae5d14dbfd146c3ee04ffe6a639/Preview.png "Pacifica Icon Theme")
 
 Hello, here's my new Icon Theme isn't finish, I have to do a lot of work but I want to share with you a beta version. This theme fits very well with [Faba Of Sam Hewitt](https://github.com/snwh/faba-icon-theme). I recommend you to download this theme too.
 

@@ -2,7 +2,7 @@
 
 ![Texte alternatif](https://raw.github.com/fsvh/insignia/6f899a16899afae5d14dbfd146c3ee04ffe6a639/Preview.png "Pacifica Icon Theme")
 
-Hello, here's my new Icon Theme isn't finish, I have to do a lot of work but I want to share with you a beta version. This theme fits very well with [Faba Of Sam Hewitt](https://github.com/snwh/faba-icon-theme). I recommend you to download this theme too.
+Hello, here's my new Icon Theme isn't finish, I have to do a lot of work but I want to share with you a beta version. This theme fits very well with [Faba Of Sam Hewitt](https://github.com/snwh/faba-icon-theme). I recommend you to download this theme.
 
 I enjoy this theme so much and hope it will be the case for you too.
 
